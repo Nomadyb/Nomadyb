@@ -1,4 +1,7 @@
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=nomadyb&show_icons=true&theme=radical"/>
+
+![giphy](https://user-images.githubusercontent.com/51696895/161586740-a02a3036-623b-4e14-9cd6-eb8181862194.gif)
+
+
 
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -7,3 +10,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
+<!--
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=nomadyb&show_icons=true&theme=radical"/>
+-->
