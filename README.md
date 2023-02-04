@@ -1,7 +1,8 @@
-
+<!--
 ![giphy](https://user-images.githubusercontent.com/51696895/161586740-a02a3036-623b-4e14-9cd6-eb8181862194.gif)
+-->
 
-
+<a href="https://app.daily.dev/nomadyb"><img src="https://api.daily.dev/devcards/d9965202070543028c57b6f756bc74a1.png?r=8f4" width="400" alt="Nomad's Dev Card"/></a>
 
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
