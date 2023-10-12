@@ -2,7 +2,7 @@
 ![giphy](https://user-images.githubusercontent.com/51696895/161586740-a02a3036-623b-4e14-9cd6-eb8181862194.gif)
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -19,3 +19,4 @@
 <!--
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=nomadyb&show_icons=true&theme=radical"/>
 -->
+
